@@ -1,8 +1,8 @@
-# WechatAssetsPickerSumple
+# WechatAssetsPickerSample
 Flutter WeChat Assets Picker を使用するサンプル
 
 ## Usage
-```
+```dart
 class _MyHomePageState extends State<MyHomePage> {
   @override
   Widget build(BuildContext context) {
